@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Neelesh Singh</h1>
 <h3 align="center">A Learner | A passionate frontend developer</h3>
 
-<img align="right" alt="coding-gif" width="400" src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47n24v1tak7qm098k9nbdj9f7b40ha9dlggsu8hc8s&rid=giphy.gif&ct=g">
+<img align="right" alt="coding-gif" width="400" src="https://spng.pngfind.com/pngs/s/51-513850_welcome-to-beatnik-technology-web-and-software-development.png">
 
-<p align="left"> <img src="https://spng.pngfind.com/pngs/s/51-513850_welcome-to-beatnik-technology-web-and-software-development.png" /> </p>
+
 
 - 🌱 I’m currently learning **DSA, MERN Development**
 
