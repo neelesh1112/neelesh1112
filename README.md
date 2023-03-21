@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding-gif" width="400" src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47n24v1tak7qm098k9nbdj9f7b40ha9dlggsu8hc8s&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neelesh1112&label=Profile%20views&color=0e75b6&style=flat" alt="neelesh1112" /> </p>
+<p align="left"> <img src="https://spng.pngfind.com/pngs/s/51-513850_welcome-to-beatnik-technology-web-and-software-development.png" /> </p>
 
 - 🌱 I’m currently learning **DSA, MERN Development**
 
