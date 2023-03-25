@@ -44,18 +44,20 @@
 
 <br>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=neelesh1112&theme=dark&show_icons=true&locale=en&layout=compact" alt="neelesh1112" /> </p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=neelesh1112&theme=jolly&show_icons=true&locale=en" alt="neelesh1112" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neelesh1112&theme=dark&show_icons=true&locale=en&layout=compact" alt="neelesh1112" /> 
+</p>
 
-<p >
-<img align="left" style="background-color:DodgerBlue;" src="https://github-readme-streak-stats.herokuapp.com/?user=neelesh1112&theme=jolly&show_icons=true" alt="neelesh1112" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=neelesh1112&theme=jolly&show_icons=true&locale=en" alt="neelesh1112" />
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+<p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=neelesh1112&theme=jolly&show_icons=true" alt="neelesh1112" />
+</p>
+
 <p align="center"> 
  Thank you for visiting my Github Profile<br>
 Please provide support by giving star in my repo if you liked it.
-</p>
-
 </p>
 
 
