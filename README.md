@@ -52,7 +52,8 @@
 </p>
 
 
-<br><br><br>
-<p align="center">🧡 Thank you for visiting my Github Profile 🧡&nbsp
-  Please provide support by giving star if you liked my repos.
- </p>
+<br><br><br><br><br><br><br><br><br><br>
+<p align="center"> 
+ Thank you for visiting my Github Profile<br>
+Please provide support by giving star in my repo if you liked it.
+</p>
