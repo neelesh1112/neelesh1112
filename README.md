@@ -38,15 +38,15 @@
 <br><br>
 
 <p align="center"> 
-<img align="center" alt="stats-img" width="100" src="https://o.remove.bg/downloads/fbcd719b-89f3-4b60-be24-ff95e4f08f3f/Blog_Header_New-Colors_Analytics-removebg-preview.png">
-<h3 align="center">MY Git Stats</h3>
+<img align="center" alt="stats-img" width="120" src="https://o.remove.bg/downloads/1a39cf1b-5d8d-49ea-b907-4b326aa05763/programming_GFP_GItHub_Readme_Stats_header-removebg-preview__1_-removebg-preview.png">
+<h3 align="center">My GitHub Stats</h3>
 </p>
 
 <br>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=neelesh1112&show_icons=true&locale=en&layout=compact" alt="neelesh1112" /> </p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=neelesh1112&theme=dark&show_icons=true&locale=en&layout=compact" alt="neelesh1112" /> </p>
 
 <p >
-<img align="left" style="background-color:DodgerBlue;" src="https://github-readme-streak-stats.herokuapp.com/?user=neelesh1112&" alt="neelesh1112" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=neelesh1112&show_icons=true&locale=en" alt="neelesh1112" />
+<img align="left" style="background-color:DodgerBlue;" src="https://github-readme-streak-stats.herokuapp.com/?user=neelesh1112&theme=jolly&show_icons=true" alt="neelesh1112" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=neelesh1112&theme=jolly&show_icons=true&locale=en" alt="neelesh1112" />
 </p>
